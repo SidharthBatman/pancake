@@ -98,7 +98,7 @@ def check_enemy() :
     for i in range(len(enemy)):
         l, c = enemy [i]
         if l == player_l and c == player_c :
-            stdscr.addstr(maxl//2, maxc//2, "YOU ARE DEAD BITCH !")
+            stdscr.addstr(maxl//2, maxc//2, "YOU ARE DEAD !")
             stdscr.refresh()
             time.sleep(3)
             playing = False
