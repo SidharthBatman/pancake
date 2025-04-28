@@ -1,6 +1,6 @@
-# Pancake 🥞 - Terminal Game
+# Space Pizza Hunter 🥞 - Terminal Game
 
-**Pancake** is a terminal-based survival game built using Python's `curses` module.  
+**Space Pizza Hunter** is a terminal-based survival game built using Python's `curses` module.  
 Your goal: collect food (`✿`) while avoiding enemies (`E`) in a randomly generated world.
 
 ## 🎮 How to Play
